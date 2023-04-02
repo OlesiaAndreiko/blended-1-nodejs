@@ -1,0 +1,29 @@
+{
+  "name": "blended-1-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlesiaAndreiko/blended-1-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlesiaAndreiko/blended-1-nodejs/issues"
+  },
+  "homepage": "https://github.com/OlesiaAndreiko/blended-1-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "joi": "^17.9.1",
+    "yargs": "^17.7.1"
+  }
+}
